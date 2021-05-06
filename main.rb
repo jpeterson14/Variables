@@ -10,7 +10,7 @@ example = "The word 'example' is equal to this sentence, it's a named variable."
 puts example
 
 name = "Jake"
-age = 23
+age = 22
 
 intro = "Hi my name is #{name}. I am #{age} years old."
 puts intro
